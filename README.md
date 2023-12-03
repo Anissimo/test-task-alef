@@ -1,4 +1,3 @@
-https://anissimo.github.io/test-task-alef/
 ##
 Классический туду лист
 ##
